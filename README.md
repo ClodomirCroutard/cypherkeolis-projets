@@ -1,15 +1,62 @@
 # Projets de cypherkeolis
 
 > Récapitulatif de l'ensemble des projets GitHub de **cypherkeolis**, mis à jour automatiquement par l'agent data collector.
-> Dernière mise à jour : 11/09/2026 à 15:40
+> Dernière mise à jour : 11/09/2026 à 16:06
 
 ## Sommaire
 
-| Projet | Langage | ⭐ Étoiles | Résumé |
-|---|---|---|---|
 
-| [cypherkeolis/cmd-history-optimizer](projets/cmd-history-optimizer.md) | Python | 0 | Ce projet est un outil CLI en Python, sans dépendances externes, conçu pour anal |
-| [cypherkeolis/cypherkeolis](projets/cypherkeolis.md) | N/A | 0 | Ce dépôt GitHub sert de profil de chercheur pour présenter des travaux en inform |
-| [cypherkeolis/diffpriv-ml](projets/diffpriv-ml.md) | Python | 0 | Ce projet propose une bibliothèque Python légère et auditable pour implémenter l |
-| [cypherkeolis/ecg-kit](projets/ecg-kit.md) | Python | 0 | Le projet `ecg-kit` est un outil Python léger et auditable conçu pour l'analyse  |
-| [cypherkeolis/qnoise](projets/qnoise.md) | Python | 0 | Le projet `qnoise` est un simulateur de bruit quantique léger et sans dépendance |
+### 📦 [cypherkeolis/cmd-history-optimizer](projets/cmd-history-optimizer.md)
+
+- **Langage** : Python
+- **⭐ Étoiles** : 0
+- **🍴 Forks** : 0
+- **Dernière mise à jour** : 2026-09-11
+
+**Description :** CLI tool that analyzes shell history to detect redundant commands and suggest optimized aliases using standard library statistics.
+
+---
+
+### 📦 [cypherkeolis/cypherkeolis](projets/cypherkeolis.md)
+
+- **Langage** : N/A
+- **⭐ Étoiles** : 0
+- **🍴 Forks** : 0
+- **Dernière mise à jour** : 2026-09-11
+
+**Description :** Researcher profile — quantum computing, medical AI, computational science.
+
+---
+
+### 📦 [cypherkeolis/diffpriv-ml](projets/diffpriv-ml.md)
+
+- **Langage** : Python
+- **⭐ Étoiles** : 0
+- **🍴 Forks** : 0
+- **Dernière mise à jour** : 2026-09-11
+
+**Description :** Differentially private machine learning utilities: DP-SGD, calibrated noise mechanisms, privacy budget accounting.
+
+---
+
+### 📦 [cypherkeolis/ecg-kit](projets/ecg-kit.md)
+
+- **Langage** : Python
+- **⭐ Étoiles** : 0
+- **🍴 Forks** : 0
+- **Dernière mise à jour** : 2026-09-11
+
+**Description :** Python toolkit for ECG signal analysis: R-peak detection, heart rate variability, rhythm screening.
+
+---
+
+### 📦 [cypherkeolis/qnoise](projets/qnoise.md)
+
+- **Langage** : Python
+- **⭐ Étoiles** : 0
+- **🍴 Forks** : 0
+- **Dernière mise à jour** : 2026-09-11
+
+**Description :** Lightweight quantum noise simulator for NISQ algorithms. Models depolarizing, amplitude damping, and thermal relaxation channels.
+
+---
