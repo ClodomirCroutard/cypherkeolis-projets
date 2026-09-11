@@ -1,0 +1,57 @@
+{
+  "cmd-history-optimizer": {
+    "name": "cmd-history-optimizer",
+    "full_name": "cypherkeolis/cmd-history-optimizer",
+    "url": "https://github.com/cypherkeolis/cmd-history-optimizer",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "description": "CLI tool that analyzes shell history to detect redundant commands and suggest optimized aliases using standard library statistics.",
+    "updated_at": "2026-09-11",
+    "summary": "Ce projet est un outil CLI en Python, sans dépendances externes, conçu pour analyser l'historique du terminal afin d'identifier les commandes répétitives et les séquences redondantes. Il propose automatiquement des alias optimisés et des commandes chaînées pour simplifier le flux de travail, en s'appuyant uniquement sur la bibliothèque standard pour le traitement des données.\n\n**Niveau de recommandation : Faible** (bien que l'outil soit léger et autonome, l'absence d'étoiles et le caractère niche de l'optimisation manuelle limitent son attractivité actuelle)."
+  },
+  "diffpriv-ml": {
+    "name": "diffpriv-ml",
+    "full_name": "cypherkeolis/diffpriv-ml",
+    "url": "https://github.com/cypherkeolis/diffpriv-ml",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "description": "Differentially private machine learning utilities: DP-SGD, calibrated noise mechanisms, privacy budget accounting.",
+    "updated_at": "2026-09-11",
+    "summary": "Ce projet propose une bibliothèque Python légère et auditable pour implémenter la confidentialité différentielle dans le machine learning, avec un accent particulier sur la clarté mathématique des garanties de privacy. Il offre des fonctionnalités essentielles telles que le DP-SGD, des mécanismes de bruit calibrés (Laplace et Gaussien) et le suivi du budget de confidentialité.\n\nNiveau de recommandation : **faible** (en raison de l'absence totale d'étoiles et d'adoption communautaire, bien que le code soit utile comme référence académique)."
+  },
+  "ecg-kit": {
+    "name": "ecg-kit",
+    "full_name": "cypherkeolis/ecg-kit",
+    "url": "https://github.com/cypherkeolis/ecg-kit",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "description": "Python toolkit for ECG signal analysis: R-peak detection, heart rate variability, rhythm screening.",
+    "updated_at": "2026-09-11",
+    "summary": "Le projet `ecg-kit` est un outil Python léger et auditable conçu pour l'analyse de signaux ECG, visant à faciliter la recherche en intelligence artificielle médicale et les expériences de cardiologie reproductibles. Il offre des fonctionnalités clés telles que la détection des pics R via un filtre Pan-Tompkins transparent (sans dépendance à SciPy) et le calcul de métriques standardisées de variabilité de la fréquence cardiaque (HRV) conformément aux normes de la Task Force.\n\n**Niveau de recommandation : Moyen**\n*(Justification : Bien que l'approche \"sans boîte noire\" et la transparence algorithmique soient des atouts majeurs pour la recherche et l'audit, l'absence totale d'étoiles et la nature très spécifique de l'outil limitent son intérêt général par rapport à des bibliothèques plus établies.)*"
+  },
+  "qnoise": {
+    "name": "qnoise",
+    "full_name": "cypherkeolis/qnoise",
+    "url": "https://github.com/cypherkeolis/qnoise",
+    "language": "Python",
+    "stars": 0,
+    "forks": 0,
+    "description": "Lightweight quantum noise simulator for NISQ algorithms. Models depolarizing, amplitude damping, and thermal relaxation channels.",
+    "updated_at": "2026-09-11",
+    "summary": "Le projet `qnoise` est un simulateur de bruit quantique léger et sans dépendances externes, conçu pour étudier l'impact de la décohérence sur les algorithmes de l'ère NISQ. Il implémente en Python pur cinq canaux d'erreur mono-qubit standards (comme l'amortissement d'amplitude et le déphasage) ainsi que des outils de quantification d'état pour faciliter la recherche et l'enseignement. Compte tenu de son utilité technique mais de son audience restreinte (0 étoile), le niveau de recommandation est **moyen**."
+  },
+  "cypherkeolis": {
+    "name": "cypherkeolis",
+    "full_name": "cypherkeolis/cypherkeolis",
+    "url": "https://github.com/cypherkeolis/cypherkeolis",
+    "language": "N/A",
+    "stars": 0,
+    "forks": 0,
+    "description": "Researcher profile — quantum computing, medical AI, computational science.",
+    "updated_at": "2026-09-11",
+    "summary": "Ce dépôt GitHub sert de profil de chercheur pour présenter des travaux en informatique quantique, IA médicale et science computationnelle. Ses fonctionnalités principales incluent des outils de modélisation du bruit quantique, le traitement de signaux cardiaques (ECG) et l'implémentation d'algorithmes d'apprentissage automatique préservant la vie privée (DP-SGD). La recommandation est **moyenne**, car il s'agit d'un portefeuille de projets de recherche sans métriques de popularité (0 étoiles) ni communauté active visible."
+  }
+}
